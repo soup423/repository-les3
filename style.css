@@ -1,4 +1,4 @@
-div {
+/* div {
     color:red;
 }
 .div{
@@ -22,4 +22,31 @@ div span {
 }
 .parent1 + .parent2 {
     font-size: 33px;
+}
+.fontx22 {
+    font-size: 30px;}
+
+.div1 {
+    text-decoration:underline;
+    color: green;
+}
+.div2 {
+    color: grey;
+} */
+/* .div1.div2 {
+    color: red;
+} */
+/* .divbox {
+    height: 100px;
+    width: 150px;
+    background: black;
+}
+.divbox:hover {
+    background: grey;
+    height: 300px;
+    width: 450px;
+} */
+a:active {
+    font-size: 40px;
+    transition: all 0.3s ease;
 }
