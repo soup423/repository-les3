@@ -1,0 +1,25 @@
+div {
+    color:red;
+}
+.div{
+    background: black;
+}
+#test{
+    border: 1px solid green;
+    width: 80px;
+    height: 3em;  
+}
+div span {
+    color: rgb(172, 172, 82);
+}
+.class1 .class2 {
+    background-color: pink;
+    width: 50px;
+    height: 4rem;
+}
+.class3>.class4 {
+    color:blue;
+}
+.parent1 + .parent2 {
+    font-size: 33px;
+}
